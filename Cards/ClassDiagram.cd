@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BotCS" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAFAAAAAAAAACAAAAAAAAAACAAAAAAQAAAAAAAI=</HashCode>
+      <FileName>BotCS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Card" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAIBCgAAAQAmARARIAIAECEAIAACspIAVgAAAAAQA=</HashCode>
+      <FileName>Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardsBackCS" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAFAAAAAAAAACQAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>CardsBackCS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardsSet" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAkAQAAAAEAgBABAAAQAAAAEAAAAAAAAAAAAACA=</HashCode>
+      <FileName>CardsSet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClickedCard" Collapsed="true">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAwAAAAEAA=</HashCode>
+      <FileName>ClickedCard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColodaCS" Collapsed="true">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ColodaCS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProc" Collapsed="true">
+    <Position X="12.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>pBgAAABEEIIoCAqQAQAlCpAAEAAigAoZBkUYCEEFoMA=</HashCode>
+      <FileName>GameProc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProcM" Collapsed="true">
+    <Position X="14.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameProcM.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kozir" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAAgAAIAAAA=</HashCode>
+      <FileName>Kozir.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAMIVAAAiBCAADAAAAAIAIAAoIAQCIAoAEEQA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NumOfColoda" Collapsed="true">
+    <Position X="12.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAACAAAAAAAAAAAAJAAAAAAAAAAAIIAAAAAAAAAAA=</HashCode>
+      <FileName>NumOfColoda.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Options" Collapsed="true">
+    <Position X="14.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIAAAJJAAAqAAAFBAgAAAEEgAAoIABCAAABEiCA=</HashCode>
+      <FileName>Options.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerCS" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAEAAAAAAAAAgEAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>PlayerCS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TableBeatingCS" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAhQACAAAAAAAAAAAIAAAAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TableBeatingCS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TableTossCS" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>TableTossCS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimerT" Collapsed="true">
+    <Position X="16.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABAAAAAKAAAAgAAAAhAAAAAAAAAACAAABgAAAEAAQ=</HashCode>
+      <FileName>TimerT.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uLose" Collapsed="true">
+    <Position X="12.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAMAAAAiAAAABQBAAAAAIAAoIAgQAgAAEAAA=</HashCode>
+      <FileName>uLose.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uWon" Collapsed="true">
+    <Position X="14.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAMAABAiAAAABQBAAAAAAAAoIAAUAgAAEAAA=</HashCode>
+      <FileName>uWon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Rang" Collapsed="true">
+    <Position X="12.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABQCAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Value" Collapsed="true">
+    <Position X="14.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAEAAEAIAAAAAFBAAAAAgAIIghAAA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
